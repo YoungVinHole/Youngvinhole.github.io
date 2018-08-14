@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[Hello World]]></title>
+    <title><![CDATA[Hello！欢迎来到时光灬浩哲的个人网站]]></title>
     <url>%2F2018%2F08%2F14%2Fhello-world%2F</url>
-    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+    <content type="text"><![CDATA[2018-06-09 编辑本博客由 时光灬浩哲 创建 #关于本站本博主还是一名准高二学生，这是我对一些互联网技术想要分享经验与交流而开设的网站，我会把使用经验和遇到问题的解决方法写出来，以记录自己学习技术的过程。 emmm，由于我对git命令和hexo博客程序操作的不熟悉，各种出毛病上百度，可算是弄了个大明白，导致建设了一个下午的时间，以后会分享一些实用软件，教程，自己解决某些问题的心得，今天就先弄到这里吧！ 此外，博客部分文章内容可能非原创，而是转载或修改原文章内容发布，有原作者文章链接的博主都会添上原文URL，没有原文章链接的，如果在博主发布有侵犯作者版权的，请留言或者邮件通知，博主将会在第一时间添加上链接或者删除文章，以尊重原作者版权！ 提醒：博客吧发表的教程并不一定是百分之百正确，其中难勉有漏缺、错误以及不成熟之处，博友们如有发现，还请理性指出！谢谢！ 联系方式： QQ:2269768235WX:lucky2269768235 Github:https://github.com/YoungVinHole E-mail:2269768235@qq.com]]></content>
   </entry>
 </search>
