@@ -1725,9 +1725,9 @@ pre .javascript .function {
   height: auto;
   border: 1px solid #eee;
 /* 头像圆形 */
-  border-radius: 40px;
-  -webkit-border-radius: 40px;
-  -moz-border-radius: 40px;
+  border-radius: 100px;
+  -webkit-border-radius: 100px;
+  -moz-border-radius: 100px;
   box-shadow: inset 0 -1px 0 #333 sf;
 /* 设置循环动画 [animation: (play)动画名称 (2s)动画播放时长单位秒或微秒 (ase-out)动画播放的速度曲线为以低速结束 
     (1s)等待1秒然后开始动画 (1)动画播放次数(infinite为循环播放) ]*/
@@ -1900,7 +1900,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #db9fe9;
+  background: #33a19d;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3075,4 +3075,11 @@ img:hover {
 }
 .footer {
   bottom: auto;
+}
+.post {
+  margin-top: 60px;
+  margin-bottom: 60px;
+  padding: 25px;
+  -webkit-box-shadow: 0 0 5px rgba(202,203,203,0.5);
+  -moz-box-shadow: 0 0 5px rgba(202,203,204,0.5);
 }
