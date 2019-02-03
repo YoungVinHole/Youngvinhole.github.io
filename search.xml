@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[小米6 7.1.1MIUI终极养老攻略（从解锁到框架）]]></title>
+    <url>%2F2019%2F02%2F03%2F%E7%B1%B36%207.1.1MIUI%E7%BB%88%E6%9E%81%E5%85%BB%E8%80%81%E6%94%BB%E7%95%A5%2F</url>
+    <content type="text"><![CDATA[因为米6是我的主力机，所以在校期间基本养老不去动，到了寒假琢磨了一天，可算搞出来了这些东西，写下来也是方便自己以后用得着，本篇文章写下来自己以后备用个人米6网盘资源：https://pan.baidu.com/s/1Dy95YCEF7ZYkV-J9A78fdQ 提取码:i3ii 1.首先米6需解锁，手机的解锁线刷参考这个帖子http://www.miui.com/thread-9197383-1-1.html 2.线刷或卡刷刷入MIUI 9.7.11.30(开发版) 小米手机6官方ROM合集 http://www.miui.com/thread-8057850-1-1.html 3.刷入第三方Recovery：我用的是TWRP3.1.1，支持data解密、ota升级，内置superSU（之前我刷入的coffeeREC会出现无法挂载vendor问题，所以用这个），网盘里面的recovery.img文件就是 下载网盘里面一键刷入rec工具.zip 将小米6完全关机，按住“电源键”+“音量下”，进入fastboot界面，就是有个米兔的界面。然后小米6插线连接电脑。点击一键刷入recovery(需要先解bl锁).bat，然后一直enter键，一会儿小米6重启，刷入完成。 4.刷入xposed框架 或 magisk框架，或一起装 下载网盘里的magisk安装包和xposed安装包，不放心的话卸载包一起下载 米6可用的Magisk框架：v14.0 Xposed框架：v88.2 SDK25刷入magisk框架小米6进入recovery –&gt; 完全关机下，按“电源键”+“音量键上”然后小米6插线连接电脑，在我的电脑找到小米6，把“Magisk卡刷包”传到手机上。进入recovery –&gt; 安装 –&gt; 选择“Magisk卡刷包” –&gt; 刷入镜像然后重启系统，可以看到多了一个app，这是MagiskManger，有点老，可以更新现在可以安装一些“Magisk模块”了，好像也没什么，就“V4A音效”好使点。下载，找到模块，点击下载安装，重启即可。刷入Xposed框架刷完magisk后，去网盘下载xposed.apk安装然后，必须在“XposedInstaller”设置里面勾选“禁用资源钩子”，不然，进不去系统。接着重启到REC刷入xposed卡刷包即可最后就是模块了，试了一下7.1.1的模块我只找到这些东西，不过这些也够养老了QX模块微X模块小米净化器音量增强应用变量云村清洁工运动加速器阻止运行安装完后在xposed里面勾上重启手机即可，可能开机时间长一点，但日常使用还是如此丝滑23333]]></content>
+  </entry>
+  <entry>
     <title><![CDATA[自用Adobe2017注册机，可破解全系列Adobe2017软件]]></title>
     <url>%2F2018%2F08%2F16%2FAdobe%E6%B3%A8%E5%86%8C%E6%9C%BA%2F</url>
     <content type="text"><![CDATA[貌似还有软件里面还有BGM….. 下载链接：https://www.lanzous.com/i1ntvnc 密码:YWHZ]]></content>
